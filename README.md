@@ -1,5 +1,5 @@
 # **Sentiment Analysis Using RoBERTa** 🤖📊
-![License](https://img.shields.io/github/license/bugkiller099/SEMANTIC-ANALYSIS-PROJECT)
+[![License](https://img.shields.io/github/license/BugKiller099/Sementic-Analysis-Project)](https://github.com/BugKiller099/Sementic-Analysis-Project/blob/main/LICENSE)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Transformers](https://img.shields.io/badge/Transformers-4.0%2B-yellow)
 ![Model Accuracy](https://img.shields.io/badge/Accuracy-93.6%25-green)
